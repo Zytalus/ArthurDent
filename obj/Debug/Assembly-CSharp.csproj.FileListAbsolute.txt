@@ -1,0 +1,2 @@
+D:\Unity Game Projects\Arthur Dent's House\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Unity Game Projects\Arthur Dent's House\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
